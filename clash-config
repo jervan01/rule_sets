@@ -10,7 +10,7 @@ proxy-groups:
   - name: 节点选择
     type: select
     proxies:
-      #clash_names
+      #node_names
       - DIRECT
   - name: 国外媒体
     type: select
