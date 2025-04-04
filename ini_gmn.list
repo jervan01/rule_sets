@@ -1,6 +1,11 @@
 DOMAIN-KEYWORD,feedback.aliexpress
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,googleapis.com
+DOMAIN-KEYWORD,googleusercontent.com
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,chrome.com
 DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,microsoft
