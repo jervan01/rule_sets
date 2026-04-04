@@ -1,18 +1,15 @@
-# === OpenAI / ChatGPT ===
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,chatgpt.com
 - DOMAIN-SUFFIX,oaistatic.com
 - DOMAIN-SUFFIX,oaiusercontent.com
 - DOMAIN-SUFFIX,sora.com
 - DOMAIN-KEYWORD,openai
-# === Anthropic / Claude ===
 - DOMAIN-SUFFIX,anthropic.com
 - DOMAIN-SUFFIX,claude.ai
 - DOMAIN-SUFFIX,claude.com
 - DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN-KEYWORD,anthropic
 - DOMAIN-KEYWORD,claude
-# === Google Gemini / AI Studio ===
 - DOMAIN-SUFFIX,gemini.google.com
 - DOMAIN-SUFFIX,bard.google.com
 - DOMAIN-SUFFIX,notebooklm.google
@@ -21,24 +18,20 @@
 - DOMAIN-SUFFIX,ai.google.dev
 - DOMAIN-SUFFIX,generativelanguage.googleapis.com
 - DOMAIN-SUFFIX,makersuite.google.com
-# === Microsoft Copilot ===
 - DOMAIN-SUFFIX,copilot.microsoft.com
 - DOMAIN-SUFFIX,copilot.cloud.microsoft
 - DOMAIN-SUFFIX,sydney.bing.com
-# === 推理加速平台 (Cerebras / Groq / Together) ===
-- DOMAIN-SUFFIX,cerebras.ai          # Cerebras 核心
-- DOMAIN-SUFFIX,groq.com              # Groq 核心
+- DOMAIN-SUFFIX,cerebras.ai
+- DOMAIN-SUFFIX,groq.com
 - DOMAIN-SUFFIX,together.xyz
 - DOMAIN-SUFFIX,together.ai
 - DOMAIN-SUFFIX,sambanova.ai
-# === 其他主流模型 & 搜索 ===
-- DOMAIN-SUFFIX,x.ai                 # Grok
+- DOMAIN-SUFFIX,x.ai
 - DOMAIN-SUFFIX,grok.com
-- DOMAIN-SUFFIX,perplexity.ai        # Perplexity
-- DOMAIN-SUFFIX,mistral.ai           # Mistral
-- DOMAIN-SUFFIX,cursor.com           # Cursor 编辑器
+- DOMAIN-SUFFIX,perplexity.ai
+- DOMAIN-SUFFIX,mistral.ai
+- DOMAIN-SUFFIX,cursor.com
 - DOMAIN-SUFFIX,cursor.sh
-# === 验证与辅助 (按需保留) ===
 - DOMAIN-SUFFIX,auth0.com
 - DOMAIN-SUFFIX,identrust.com
 - DOMAIN-SUFFIX,client-api.arkoselabs.com
