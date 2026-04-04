@@ -1,39 +1,39 @@
-- DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,chatgpt.com
-- DOMAIN-SUFFIX,oaistatic.com
-- DOMAIN-SUFFIX,oaiusercontent.com
-- DOMAIN-SUFFIX,sora.com
-- DOMAIN-KEYWORD,openai
-- DOMAIN-SUFFIX,anthropic.com
-- DOMAIN-SUFFIX,claude.ai
-- DOMAIN-SUFFIX,claude.com
-- DOMAIN-SUFFIX,claudeusercontent.com
-- DOMAIN-KEYWORD,anthropic
-- DOMAIN-KEYWORD,claude
-- DOMAIN-SUFFIX,gemini.google.com
-- DOMAIN-SUFFIX,bard.google.com
-- DOMAIN-SUFFIX,notebooklm.google
-- DOMAIN-SUFFIX,notebooklm.google.com
-- DOMAIN-SUFFIX,aistudio.google.com
-- DOMAIN-SUFFIX,ai.google.dev
-- DOMAIN-SUFFIX,generativelanguage.googleapis.com
-- DOMAIN-SUFFIX,makersuite.google.com
-- DOMAIN-SUFFIX,copilot.microsoft.com
-- DOMAIN-SUFFIX,copilot.cloud.microsoft
-- DOMAIN-SUFFIX,sydney.bing.com
-- DOMAIN-SUFFIX,cerebras.ai
-- DOMAIN-SUFFIX,groq.com
-- DOMAIN-SUFFIX,together.xyz
-- DOMAIN-SUFFIX,together.ai
-- DOMAIN-SUFFIX,sambanova.ai
-- DOMAIN-SUFFIX,x.ai
-- DOMAIN-SUFFIX,grok.com
-- DOMAIN-SUFFIX,perplexity.ai
-- DOMAIN-SUFFIX,mistral.ai
-- DOMAIN-SUFFIX,cursor.com
-- DOMAIN-SUFFIX,cursor.sh
-- DOMAIN-SUFFIX,auth0.com
-- DOMAIN-SUFFIX,identrust.com
-- DOMAIN-SUFFIX,client-api.arkoselabs.com
-- DOMAIN-SUFFIX,events.statsigapi.net
-- DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,cerebras.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,together.xyz
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,sambanova.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
